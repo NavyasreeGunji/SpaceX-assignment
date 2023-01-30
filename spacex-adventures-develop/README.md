@@ -50,17 +50,6 @@ You can run those tests locally if you follow the steps above from 1 to 3, and t
 
 `npm test`
 
-## Authors
-
-👤 **Wahidullah Shadab**
-
-- GitHub: [@githubhandle](https://github.com/shadabwahidullah)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/wahidullah-shadab-2712031a3)
-
-👤 **Zain Sadaqat**
-
-- GitHub: [@githubhandle](https://github.com/zainsadaqat)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zain-sadaqat/)
 
 ## 🤝 Contributing
 
