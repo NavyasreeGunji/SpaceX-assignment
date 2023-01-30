@@ -20,15 +20,9 @@ To visit the website click [here](https://vigilant-noether-8c812e.netlify.app/)
 
 ## Getting Started
 
-1 - On Github, on the main page of the Gameportal repository, click the Code button and copy "Clone with HTTPS" by clicking the copy icon.
-In your terminal, enter a git clone and past the link that you copied from the repository, and press the   Enter
-(e.g. git clone https://github.com/shadabwahidullah/spacex-adventures.git).
+1.please go through my github account url (https://github.com/NavyasreeGunji)
 
-* To get a local copy up and running follow these steps.
-
-2 - open your terminal and clone the project running 
-
-`https://github.com/shadabwahidullah/spacex-adventures.git`
+2. Find the repositry Space x assignement and clone or download it
 
 3 - install or update your npm running
 
@@ -50,20 +44,3 @@ You can run those tests locally if you follow the steps above from 1 to 3, and t
 
 `npm test`
 
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- We have used **SpaceX API** to get the information about Rockets and missions. I
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
